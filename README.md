@@ -21,9 +21,7 @@
 - 🌍 ORCID: [0009-0002-5995-5552](https://orcid.org/0009-0002-5995-5552)  
 - 🔬 Web of Science: [ResearcherID](https://www.webofscience.com) <!-- Replace with your profile -->
 - 🔗 LinkedIn: [manaswi-kulahara](https://linkedin.com/in/manaswi-kulahara)
-- 📬 Email: **manaswikulahara8@gmail.com**
-- 🗂️ [Resume](https://drive.google.com/file/d/1N8T0ZH3SS-j644FiGNIU1qSM56M29ppx/view?usp=sharing)
-
+- 📬 Email: **manaswikulahara8@gmail.com** 
 ---
 
 ### 🧪 Projects I'm Mapping
