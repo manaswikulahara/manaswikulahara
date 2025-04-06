@@ -1,8 +1,3 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100%" alt="Geospatial Earth Banner" />
-</p>
-
 <h1 align="center">🌍 Manaswi Kulahara</h1>
 
 <p align="center">
